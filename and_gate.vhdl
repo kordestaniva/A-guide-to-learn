@@ -8,7 +8,7 @@ entity AND_Gate is
       A : in STD_LOGIC;
       B : in STD_LOGIC;
       Y : out STD_LOGIC;
-  );
+    );
 end AND_Gate;
 
 -- Architecural block of a Gate
