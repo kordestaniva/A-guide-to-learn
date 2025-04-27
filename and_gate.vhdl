@@ -19,3 +19,5 @@ begin
 end behavioral;
 
 -- Overall this would be way easier in Verilog, but I want to learn VHDL as it's a good standard
+
+--Addition of this comment means it is working
